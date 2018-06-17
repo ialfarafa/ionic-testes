@@ -1,0 +1,6 @@
+{
+  "name": "myApp",
+  "app_id": "br.com.ialfa.myApp",
+  "type": "ionic-angular",
+  "integrations": {}
+}
